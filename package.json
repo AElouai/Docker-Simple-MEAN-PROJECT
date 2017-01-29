@@ -1,5 +1,5 @@
 {
-  "name": "Docker CI Hello World",
+  "name": "docker-ci-hello-world",
   "private": true,
   "version": "0.0.1",
   "description": "Demo app for CI with Docker and git on NodeJS app",
